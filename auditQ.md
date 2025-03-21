@@ -36,6 +36,7 @@
 15. Did the student successfully restore the second recent snapshot and print the content of <code>hello.sh</code> ?
     ![restore 2nd](scrImg/250317_12Git-Checkout-2ndCommit.jpg)
 16. Did the student ensure that the working directory reflects the latest version of <code>hello.sh</code> from the main branch without using commit hashes?
+
     ![latest main branch](scrImg/250317_14Git-Checkout-Back-to-Latest.jpg)
 
 ## TAG me
