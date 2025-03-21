@@ -103,6 +103,7 @@
     ![Makefile](scrImg/250317_43Git-Branch-Makefile.jpg)
     ![Makefile update](scrImg/250317_45Git-Branch-Makefile-commit.jpg)
 42. Was the student able to compare and show the differences between the <code>main</code> and <code>greet</code> branches for the <code>Makefile</code >, <code>hello.sh</code> , and <code>greeter.sh</code> files?
+    
     ![main](scrImg/250317_46Git-Branch-Makefile-main-branch.jpg)
     ![diff1](scrImg/250317_47Git-Branch-Makefile-Compare-diff.jpg)
     ![diff2](scrImg/250317_48Git-Branch-Makefile-Compare-diff2.jpg)
