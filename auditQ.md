@@ -20,6 +20,7 @@
 
 9.  Did the student display the Git history of the working directory with the <code>git log</code> command? See image above
 10. Did the student successfully display a condensed view of the Git history, showing only commit hashes and messages using the "One-Line History" format?
+    
     ![one-line](scrImg/250317_07Git-Log-Oneline.jpg)
 11. Was the student able to customize the log output to display the last 2 entries?
     ![last 2](scrImg/250317_08Git-Log-Last2Items.jpg)
